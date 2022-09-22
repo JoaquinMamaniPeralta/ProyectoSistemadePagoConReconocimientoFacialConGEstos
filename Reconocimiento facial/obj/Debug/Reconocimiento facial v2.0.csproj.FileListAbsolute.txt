@@ -1,0 +1,31 @@
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Guna.UI.dll
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\bin\Debug\Guna.UI.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojAssemblyReference.cache
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb

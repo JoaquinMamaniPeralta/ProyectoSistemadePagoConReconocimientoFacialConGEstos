@@ -1,0 +1,55 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\bin\Debug\Emgu.CV.dll
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\bin\Debug\Emgu.CV.UI.dll
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\bin\Debug\Emgu.Util.dll
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\bin\Debug\Emgu.CV.xml
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\bin\Debug\Emgu.CV.UI.xml
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\bin\Debug\Emgu.Util.xml
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Resgistrar.resources
+H:\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+H:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+H:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+H:\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+H:\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+H:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Resgistrar.resources
+H:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+H:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+H:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+H:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+F:\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+F:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+F:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+F:\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+F:\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+F:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+F:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Resgistrar.resources
+F:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+F:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+F:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+D:\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+D:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+D:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Resgistrar.resources
+D:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+D:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+D:\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Dario Javier\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Dario Javier\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Dario Javier\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Dario Javier\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\Dario Javier\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+C:\Users\Dario Javier\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Dario Javier\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Dario Javier\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+C:\Users\Dario Javier\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
